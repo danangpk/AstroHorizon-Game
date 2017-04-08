@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8308A57B-DC70-E54A-0D94-53BD899A81BC}") = "Astro Horizon 2", "Assembly-CSharp.csproj", "{9364326E-CFBD-49DB-754C-B60F6ACCBF1B}"
+EndProject
+Project("{8308A57B-DC70-E54A-0D94-53BD899A81BC}") = "Astro Horizon 2", "Assembly-CSharp-Editor.csproj", "{9BCFEE12-A12B-6502-D75F-6C63B0EF7F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9364326E-CFBD-49DB-754C-B60F6ACCBF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9364326E-CFBD-49DB-754C-B60F6ACCBF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9364326E-CFBD-49DB-754C-B60F6ACCBF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9364326E-CFBD-49DB-754C-B60F6ACCBF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCFEE12-A12B-6502-D75F-6C63B0EF7F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCFEE12-A12B-6502-D75F-6C63B0EF7F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCFEE12-A12B-6502-D75F-6C63B0EF7F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCFEE12-A12B-6502-D75F-6C63B0EF7F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
